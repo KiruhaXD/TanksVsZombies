@@ -1,0 +1,11 @@
+# ninja log v5
+14	109	7444814844980109	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	9bb9d66ae7cd35c9
+111	201	7444814845571256	C:/Unity Projects/TanksAndUpdate/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1337o5j1/obj/armeabi-v7a/libswappywrapper.so	d29070d5fe9c16f2
+5	688	7444814850736094	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	27a5b37b470b435e
+10	697	7444814850811875	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	87ecd1921c069645
+8	697	7444814850841967	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c65a846b949a2e57
+12	740	7444814851254533	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	5bd33af5aecdbbc2
+0	798	7444814851834520	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d837fc0ddc1b1844
+6	941	7444814853252370	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	e11491dc68af0305
+3	983	7444814853645210	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	1487d5571e115128
+984	1062	7444814854235858	C:/Unity Projects/TanksAndUpdate/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1337o5j1/obj/armeabi-v7a/libgame.so	c6f5a32f414f1963
